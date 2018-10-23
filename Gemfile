@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby '2.3.8'
+ruby '2.4.5'
 
 gem 'slack-ruby-client', github: 'slack-ruby/slack-ruby-client'
 gem 'slack-ruby-bot-server'
